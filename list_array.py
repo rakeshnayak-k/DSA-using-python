@@ -19,3 +19,8 @@ for i in a1:
 l = [1,3,'e','',9.0,None]
 for i in l:
     print(i)
+l.insert(0,0)
+a = l.pop()
+print(l)
+l.append(a)
+print(l)
