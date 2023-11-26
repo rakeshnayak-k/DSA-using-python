@@ -21,7 +21,7 @@ The complete process to learn DSA from scratch can be broken into 4 parts:<br>
 
 
 Classification of Data Structure:<br>
-![](DataStructure.jpg)
+![](images/DataStructure.jpg)
 
 Linear data structure:<br>
 Data structure in which data elements are arranged sequentially or linearly, where each element is attached to its previous and next adjacent elements, is called a linear data structure.<br>
@@ -64,14 +64,27 @@ O(logn) : devide and conquer<br>
 O(1) : constant<br>
 
 Big-O Complexity Chart:<br>
-![](bigO.png)
+![](images/bigO.png)
 
 Common Data Structure Operations:<br>
-![](dsoperations.png)
+![](images/dsoperations.png)
 
 Array Sorting Algorithms:<br>
-![](arraysortalgos.png)
+![](images/arraysortalgos.png)
 
 
+# Object Oriented Programming (OOPs)
+1. class : Blue print followed by Objects. Logical structure with behavior 
+2. objects : Instance of a class or physical entity of a class. with the help of objects only we can access the methods and attributes of a class
+3. Abstraction : Hiding Implementation details. showing essential details.
+4. Encapsulation : binding/wrapping of data and function into an single entity. <br>
+public - accessed by any class or any funtion.<br> protected - accessed by only class where it is declared or inherted class. <br>Private - data and functions accesed by only class where it is declaered.
+5. Inheritance : derived class inherits the properties of base class <br>derived - child class. <br> base class - parent class 
+6. Polymorphism : implementing same method in different context. implement same method in both parent and child class
 
 
+# LinkedList
+
+
+BigO Linkedlist VS List:<br>
+![](images/bigo_llvslist.png)
