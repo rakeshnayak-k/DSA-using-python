@@ -85,6 +85,5 @@ public - accessed by any class or any funtion.<br> protected - accessed by only 
 
 # LinkedList
 
-
 BigO Linkedlist VS List:<br>
 ![](images/bigo_llvslist.png)
