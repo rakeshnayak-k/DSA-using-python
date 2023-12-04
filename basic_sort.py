@@ -1,3 +1,4 @@
+# all the basic sorts are of order O(n^2)
 def bubble_sort(my_list):
     for i in range(len(my_list)-1,0,-1):
         for j in range(i):
