@@ -25,10 +25,10 @@ Cookie_1.set_color('Orange')
 print(f"Cookie_1 Colrr: {Cookie_1.get_color()}")
 print(f"Cookie_2 Colrr: {Cookie_2.get_color()}")
 
-# name = c1('Oreo','green')
-# Cookie_1 = Cookie('green')
+name = c1('Oreo','green')
+Cookie_1 = Cookie('green')
 
 
-# print(name.get_name())
-# print(name.get_color())
+print(name.get_name())
+print(name.get_color())
 
