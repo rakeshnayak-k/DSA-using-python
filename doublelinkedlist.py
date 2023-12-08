@@ -136,26 +136,26 @@ dll.append(1)
 dll.append(2)
 dll.append(3)
 
-# dll.prepend(-1)
-# dll.set_value(1,20)
-# dll.insert_value(1,20)
-# print(dll.remove(10))
+dll.prepend(-1)
+dll.set_value(1,20)
+dll.insert_value(1,20)
+print(dll.remove(10))
 
 dll.print_llist()
 
-# # 2 items
-# print(dll.pop())
-# # 1 item
-# print(dll.pop())
-# # 0 item
-# print(dll.pop())
+# 2 items
+print(dll.pop())
+# 1 item
+print(dll.pop())
+# 0 item
+print(dll.pop())
 
-# # 2 items
-# print(dll.pop_first())
-# # 1 item
-# print(dll.pop_first())
-# # 0 item
-# print(dll.pop_first())
+# 2 items
+print(dll.pop_first())
+# 1 item
+print(dll.pop_first())
+# 0 item
+print(dll.pop_first())
 
-# print(dll.get(1))
-# print(dll.get(2))
+print(dll.get(1))
+print(dll.get(2))
