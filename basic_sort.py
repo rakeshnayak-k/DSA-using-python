@@ -35,8 +35,8 @@ def insertion_sort(my_list):
 
 l = [0,3,5,89,2,90,-1,-1]
 
-# print(bubble_sort(l))
-# print(selection_sort(l))
+print(bubble_sort(l))
+print(selection_sort(l))
 print(insertion_sort(l))
 
 
