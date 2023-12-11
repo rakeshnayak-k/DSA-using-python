@@ -58,17 +58,17 @@ class BinarySearchTree:
 
 
 bst = BinarySearchTree()
-# bst.insert(47)
-# bst.insert(21)
-# bst.insert(76)
-# bst.insert(18)
-# bst.insert(27)
-# bst.insert(52)
-# bst.insert(82)
+bst.insert(47)
+bst.insert(21)
+bst.insert(76)
+bst.insert(18)
+bst.insert(27)
+bst.insert(52)
+bst.insert(82)
 
-# print(bst.r_contains(18))
+print(bst.r_contains(18))
 
-# print(bst.r_contains(17))
+print(bst.r_contains(17))
 
 bst.r_insert(2)
 bst.r_insert(1)

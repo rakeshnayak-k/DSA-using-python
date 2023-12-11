@@ -39,14 +39,14 @@ class Stack:
 
 
 
-# stk = Stack(4)
+stk = Stack(4)
 
-# stk.push(2)
-# stk.push(99)
+stk.push(2)
+stk.push(99)
 
-# stk.print_stack()
+stk.print_stack()
 
-# print('pop',stk.pop())
+print('pop',stk.pop())
 
 
 

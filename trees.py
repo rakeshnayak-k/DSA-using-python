@@ -105,7 +105,7 @@ bst.insert(52)
 bst.insert(82)
 
 
-# print(bst.bfs())
+print(bst.bfs())
 
 print(bst.dfs_pre_order())
 print(bst.dfs_post_order())
@@ -114,14 +114,14 @@ print(bst.dfs_in_order())
 
 
 
-# print(bst.contains(47))
-# print(bst.contains(27))
-# print(bst.contains(17))
+print(bst.contains(47))
+print(bst.contains(27))
+print(bst.contains(17))
 
 
-# print(bst.root.value)
-# print(bst.root.left.value)
-# print(bst.root.right.value)
+print(bst.root.value)
+print(bst.root.left.value)
+print(bst.root.right.value)
 
 
 
