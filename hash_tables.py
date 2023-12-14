@@ -48,8 +48,8 @@ my_hash.set_item('lumber',1400)
 
 my_hash.print_table()
 
-# print(my_hash.get_item('bolts'))
-# print(my_hash.get_item('washers'))
-# print(my_hash.get_item('boltsss'))
+print(my_hash.get_item('bolts'))
+print(my_hash.get_item('washers'))
+print(my_hash.get_item('boltsss'))
 
 print(my_hash.keys())

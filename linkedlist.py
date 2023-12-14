@@ -150,14 +150,14 @@ ll.append(3)
 ll.reverse()
 
 ll.print_llist()
-# print(ll.get(0).value)
+print(ll.get(0).value)
 
 
-# ll.print_llist()
+ll.print_llist()
 
-# print('pop ',ll.pop_first())
-# print('pop ',ll.pop())
+print('pop ',ll.pop_first())
+print('pop ',ll.pop())
 
-# ll.print_llist()
+ll.print_llist()
 
         
