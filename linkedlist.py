@@ -144,9 +144,9 @@ ll.append(2)
 ll.append(3)
 
 # ll.set_value(1,10)
-# ll.insert_value(3,10)
+ll.insert_value(3,10)
 
-# ll.remove(2)
+ll.remove(2)
 ll.reverse()
 
 ll.print_llist()
